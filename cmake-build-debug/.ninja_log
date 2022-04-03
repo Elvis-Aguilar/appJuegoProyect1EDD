@@ -1,0 +1,22 @@
+# ninja log v5
+1	52	1649028245422379786	CMakeFiles/appJuego.dir/listasOrtogonales/Nodo.cpp.o	2f57ff31ca1e148d
+1	462	1649027878947665480	CMakeFiles/untitled.dir/archivos/Archivos.cpp.o	539b1c6dcbf17e03
+1	403	1649024716213093352	CMakeFiles/untitled.dir/juego/Juego.cpp.o	3160083e30e39035
+0	299	1649024812123146733	CMakeFiles/untitled.dir/main.cpp.o	bb339e0d1454d37d
+611	701	1649028246069055365	appJuego	d43ef8c77ce8a7be
+1	212	1649021415254978518	CMakeFiles/untitled.dir/object/Jugador.cpp.o	f58b1e6cdd877f40
+2	39	1648678409136058599	CMakeFiles/untitled.dir/listasOrtogonales/Nodo.cpp.o	dffe94dc9c15ec95
+2	531	1649028245902386403	CMakeFiles/appJuego.dir/listasOrtogonales/Lista.cpp.o	ddd3770cbec3caab
+1	534	1649028245905719782	CMakeFiles/appJuego.dir/juego/Juego.cpp.o	a8d302e9d094324d
+1	611	1649028245982387506	CMakeFiles/appJuego.dir/archivos/Archivos.cpp.o	463c177a182f1dd1
+1	319	1649027878804327509	CMakeFiles/untitled.dir/listasOrtogonales/Lista.cpp.o	390509e6e2a69e5f
+462	558	1649027879041001831	untitled	301a8a0c642740af
+1	302	1649028245672383233	CMakeFiles/appJuego.dir/object/Jugador.cpp.o	9ffab7c31b354bec
+0	424	1649028245795718266	CMakeFiles/appJuego.dir/main.cpp.o	4d5b24d0ee659678
+2	38	1649028291566313575	CMakeFiles/untitled.dir/listasOrtogonales/Nodo.cpp.o	dffe94dc9c15ec95
+1	333	1649028291859650505	CMakeFiles/untitled.dir/object/Jugador.cpp.o	f58b1e6cdd877f40
+1	480	1649028292006318970	CMakeFiles/untitled.dir/main.cpp.o	bb339e0d1454d37d
+2	493	1649028292019652467	CMakeFiles/untitled.dir/listasOrtogonales/Lista.cpp.o	390509e6e2a69e5f
+1	520	1649028292046319460	CMakeFiles/untitled.dir/archivos/Archivos.cpp.o	539b1c6dcbf17e03
+1	546	1649028292072986453	CMakeFiles/untitled.dir/juego/Juego.cpp.o	3160083e30e39035
+547	644	1649028292169654302	untitled	301a8a0c642740af
